@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "38715635131",
+    "firebase_url": "https://swallow-5c357.firebaseio.com",
+    "project_id": "swallow-5c357",
+    "storage_bucket": "swallow-5c357.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:38715635131:android:11bf5f90a7c90001",
+        "android_client_info": {
+          "package_name": "com.example.ahmet.swallow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "38715635131-sjudbq9qtti0s4d3d52q3l1uc5suam5r.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ahmet.swallow",
+            "certificate_hash": "5185dc585c8d9bbae9047655bf28ebce496260ca"
+          }
+        },
+        {
+          "client_id": "38715635131-jlhggpku90u8ttld768rei272rr4t6j9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOvq94pzYS_2vtnxBduMh_NNtOgW6elvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "38715635131-jlhggpku90u8ttld768rei272rr4t6j9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
